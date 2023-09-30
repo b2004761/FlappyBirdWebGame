@@ -1,1 +1,1 @@
-# FlappyBirdWebGame
+# Flappy-Bird-Game with JavaScript
